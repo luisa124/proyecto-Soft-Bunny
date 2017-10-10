@@ -1,0 +1,53 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: antiquewhite; }
+
+.navbar {
+  margin: 0;
+  padding: 0;
+  margin-bottom: 0;
+  font-size: 15px;
+  background-color: #1a7d81;
+  color: #fff;
+  height: 80px; }
+
+.container .navbar-brand {
+  margin-left: 100%;
+  color: #fff; }
+.container from {
+  color: #ff0000; }
+.container .nav {
+  margin-left: 362px; }
+
+.container .row {
+  width: 80%;
+  background-color: #fff;
+  margin-left: 11%; }
+
+.container .portada {
+  background: url(../img/img-1.jpg);
+  background-repeat: no-repeat;
+  padding: 04px 0 0 0;
+  height: 400px; }
+
+.container .imagenes {
+  margin-left: 0%;
+  margin-right: 0%;
+  background-color: #fff; }
+  .container .imagenes img {
+    height: 150px;
+    width: 190px;
+    margin-top: 0%; }
+  .container .imagenes .texto {
+    background-color: #1a7d81;
+    margin-left: 6px;
+    margin-top: 15%; }
+
+.container .fondo {
+  background-color: #1a7d81; }
+  .container .fondo img {
+    height: 50%;
+    width: 70%; }
+
+/*# sourceMappingURL=main.css.map */

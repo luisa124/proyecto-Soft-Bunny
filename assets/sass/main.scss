@@ -1,0 +1,88 @@
+$ancho: 720px;
+$red: #ff0000;
+$color: #1a7d81;
+$white: #fff;
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: antiquewhite;
+}
+
+//Estilo para el fondo de navegador
+
+.navbar {
+    margin: 0;
+    padding: 0;
+    margin-bottom: 0;
+    font-size: 15px;
+    background-color: $color;
+    color: $white;
+    height: 80px;
+}
+
+.container {
+    .navbar-brand {
+        margin-left: 100%;
+       color: $white;
+    }from {
+        color: $red;
+    }.nav {
+        margin-left: ($ancho/2)+2;
+    }
+}
+
+// estilo para todo mi codigo
+.container {
+    .row {
+        width: 80%;
+        background-color: $white;
+        margin-left: 11%;
+    }
+}
+
+//estitos de mi parte imagen
+.container {
+    .portada {
+    background: url(../img/img-1.jpg);
+    background-repeat: no-repeat;
+    padding: 04px 0 0 0;
+    
+    height: 400px;
+    //width: 150%; 
+   }
+    
+}
+
+
+//estilo de mis imagenes y letras
+.container {
+    .imagenes {
+        margin-left: 0%;
+        margin-right: 0%;
+        background-color: $white;
+        img {
+            height: 150px;
+            width: 190px;
+            //margin-left: ($ancho/130)+2;
+            margin-top: 0%;
+        }
+        .texto {
+            background-color: $color;
+            margin-left: ($ancho/180)+2;
+            margin-top: 15%;
+        }
+    }
+} 
+
+.container {
+    .fondo {
+        background-color: $color;
+        img{
+            height: 50%;
+            width: 70%;
+        }
+    }
+}
+
+
