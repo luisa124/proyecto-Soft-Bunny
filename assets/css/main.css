@@ -44,10 +44,28 @@ body {
     margin-left: 6px;
     margin-top: 15%; }
 
-.container .fondo {
+.fondo {
   background-color: #1a7d81; }
-  .container .fondo img {
+  .fondo img {
     height: 50%;
     width: 70%; }
+  .fondo .letras {
+    background-color: #d1f7f7; }
+  .fondo .letras1 {
+    background-color: #d1f7f7; }
+  .fondo .letras2 {
+    background-color: #d1f7f7; }
+  .fondo .letras3 {
+    background-color: #d1f7f7; }
+
+footer .img {
+  height: 200px;
+  width: 200px;
+  background-repeat: no-repeat; }
+footer .color {
+  background-color: #1a7d81;
+  margin-top: 10%;
+  height: 100px;
+  width: 100%; }
 
 /*# sourceMappingURL=main.css.map */
